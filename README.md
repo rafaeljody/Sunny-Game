@@ -5,3 +5,5 @@ Learning Material
 2. camera movement
 3. character animation
 4. character movement
+
+Assets from : https://assetstore.unity.com/packages/2d/characters/sunny-land-103349
