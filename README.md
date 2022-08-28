@@ -2,7 +2,7 @@
 
 Learning Material
 1. Tilemaps
-2. camera movement
+2. camera movement (cinemachine)
 3. character animation
 4. character movement
 
